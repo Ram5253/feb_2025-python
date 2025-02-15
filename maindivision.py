@@ -4,3 +4,7 @@ try:
 	division()
 except SaiZeroError:
 	print("dont enter zero in den..")
+jioewhwweme
+wehfoiwhojwe;
+ewioewifup
+wjowe[o[we
